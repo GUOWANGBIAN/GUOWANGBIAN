@@ -1,7 +1,6 @@
-## Hi there 👋
+## Wellcome to my Github. Here are my simple production.
 
-
-- 🔭 I’m a student learning in Datong NO.2 Middle School
+- 🔭 I’m a student learning in Datong NO.2 Middle School from Qinghai,China
 - 🌱 I’m currently learning Many Subjects
 - 📫 How to reach me: Email:guowangbian@outlook.com
 
