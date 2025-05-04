@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Many Subjects
 - 📫 How to reach me: Email:guowangbian@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUOWANGBIAN&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)
